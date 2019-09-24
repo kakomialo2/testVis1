@@ -6,13 +6,9 @@ using System.Threading.Tasks;
 
 namespace HelloWorld2
 {
-    class Program
+    class nothingClass
     {
-        static void Main(string[] args)
-        {
-            //oeo
 
-            //oeo2
-        }
+        // tipota
     }
 }
